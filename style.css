@@ -1,0 +1,73 @@
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#perch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 200px;
+
+}
+
+#carp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 450px 0 0 750px;
+}
+
+#pikeperch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 200px 0 0 705px;
+}
+
+#pike {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 267px 0 0 84px;
+}
+
+#catfish {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 167px 0 0 200px;
+}
+
+#eel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 180px 0 0 50px;
+}
+
+#bream {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 180px 0 0 400px;
+}
+
+#ruff {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 250px 0 0 580px;
+}
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
